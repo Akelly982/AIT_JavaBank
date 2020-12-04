@@ -1,0 +1,71 @@
+.AVAILABLESETTINGFX{
+    -fx-background-image: url("graphics/arrow_t_up_right.png");
+    -fx-background-size: 96, 205;
+    -fx-background-repeat: no-repeat;
+    
+    -fx-background-color: white;
+    -fx-background-color: #3b3b3b;
+    -fx-background-color: #3b3b3b 80%;
+    -fx-background-color: rgb(17, 145, 213);
+    -fx-background-color: rgba (255, 111, 255, 80);
+    
+    -fx-border-color: #2e8b57;
+    -fx-border-width: 2px;
+    -fx-padding: 10;
+    -fx-spacing: 8;
+}
+
+.AVAILABLESETTINGFX:hover{
+    
+}
+
+
+
+.nodeBkg{
+    -fx-background-color: #82E4D5;
+}
+
+.enterButton{
+    -fx-background-color: #24CC14;
+    -fx-font-weight: bold;
+    -fx-text-fill: #3b3b3b;
+    -fx-border-color: #4B4B4B;
+    -fx-border-width: 2px;
+    
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    
+}
+.clearButton{
+    -fx-background-color: #C6FF6F;
+    -fx-font-weight: bold;
+    -fx-text-fill: #3b3b3b;
+    -fx-border-color: #4B4B4B;
+    -fx-border-width: 2px;
+    
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.pageReturn{
+    -fx-background-color: #EE554E;
+    -fx-font-weight: bold;
+    -fx-text-fill: #3b3b3b;
+    -fx-border-color: #4B4B4B;
+    -fx-border-width: 2px;
+    
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+        
+        
+.genericButton{
+    -fx-background-color: #E8E8E8;
+    -fx-text-fill: #3b3b3b;
+    -fx-border-color: #4B4B4B;
+    -fx-border-width: 2px;
+    
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
